@@ -10,7 +10,6 @@ console.log(sampleNumber);
 
 
 
-
 // It is not necessary to declare type after each variable
 // Implicit type assignment also works
 let sampleNumber2 = 123;
