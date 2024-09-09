@@ -1,7 +1,14 @@
+// Type Inference
+
+
+
 let sampleNumber: number = 123;
 // sampleNumber = {a: 123, b: 456}; will give error
 
 console.log(sampleNumber);
+
+
+
 
 
 // It is not necessary to declare type after each variable
